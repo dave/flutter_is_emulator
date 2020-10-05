@@ -8,9 +8,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-environment:
-  sdk: ">=2.7.0 <3.0.0"
-  
 flutter:
   plugin:
     platforms:
@@ -19,5 +16,5 @@ flutter:
         pluginClass: FlutterIsEmulatorPlugin
 
 environment:
-  sdk: ">=1.19.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
   flutter: ">=0.1.2 <2.0.0"
