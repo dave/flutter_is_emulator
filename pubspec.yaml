@@ -10,8 +10,10 @@ dependencies:
 
 flutter:
   plugin:
-    androidPackage: fr.g123k.flutterisemulator
-    pluginClass: FlutterIsEmulatorPlugin
+    platforms:
+      android:
+        package: fr.g123k.flutterisemulator
+        pluginClass: FlutterIsEmulatorPlugin
 
 environment:
   sdk: ">=1.19.0 <3.0.0"
