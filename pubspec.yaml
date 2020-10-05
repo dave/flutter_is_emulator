@@ -1,8 +1,8 @@
-name: flutter_is_emulator
-description: Plugin to detect whether the current device is an emulator or simulator
+name: flutter_is_emulator_fixed
+description: Plugin to detect whether the current device is an emulator or simulator (forked and fixed)
 version: 1.0.0
 author: Edouard Marquez <moi@edouard-marquez.me>
-homepage: https://github.com/g123k/flutter_is_emulator
+homepage: https://github.com/dave/flutter_is_emulator_fixed
 
 dependencies:
   flutter:
